@@ -1,0 +1,6 @@
+{
+    "name": "amqp-plus",
+    "version": "1.0.0",
+    "description": "AMQP library with enhanced functionality",
+    "main": "./lib/amqp-plus"
+}
