@@ -2,8 +2,8 @@
     "name": "amqp-plus",
     "version": "1.0.0",
     "description": "AMQP library with enhanced functionality",
-    "main": "./lib/amqp-plus"
+    "main": "./lib/amqp-plus",
     "dependencies": {
-        "amqp": "git://github.com/postwait/node-amqp.git#abe332f74b6c564ce2d5c00e16466bee9e2fc15e",
+        "amqp": "git://github.com/postwait/node-amqp.git#ae3a1435ac40379cb6f395085f3dc4444b649143"
     }
 }
